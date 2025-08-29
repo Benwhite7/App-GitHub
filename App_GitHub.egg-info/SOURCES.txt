@@ -1,0 +1,6 @@
+README.md
+setup.py
+App_GitHub.egg-info/PKG-INFO
+App_GitHub.egg-info/SOURCES.txt
+App_GitHub.egg-info/dependency_links.txt
+App_GitHub.egg-info/top_level.txt
